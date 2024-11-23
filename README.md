@@ -31,7 +31,7 @@ A simple login system with a feature to toggle password visibility for a more us
 
 - **Key Technologies**: JavaScript, HTML, CSS
 - **Features**: Login validation, password visibility toggle, error handling
-- **Link**: [GitHub Repository](https://github.com/your-repository-link)
+- **Link**: [GitHub Repository](https://github.com/pavanganeshdivi/loginpage.git)
 
 ---
 
