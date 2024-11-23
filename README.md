@@ -8,12 +8,19 @@ Currently, I am focused on transitioning into the **tech industry** as a softwar
 
 ---
 
-## Skills & Technologies
+## Technologies
+<span>
+<img src="/assets/java.svg" width="100" height="100" />
+<img src="/assets/html.svg" width="100" height="100" />
+<img src="/assets/css.svg" width="100" height="100" />
+<img src="/assets/javascript.svg" width="100" height="100" />
+<img src="/assets/bootstrap.svg" width="100" height="100" />
+<img src="/assets/react.svg" width="100" height="100" />
+<img src="/assets/git.svg" width="100" height="100" />
+<img src="/assets/mysql.svg" width="100" height="100" />
+<img src="/assets/github.svg" width="100" height="100" />
+</span>
 
-- **Programming Languages**: Java, JavaScript, HTML, CSS
-- **Frameworks & Libraries**: Spring Boot (Backend), React (Frontend)
-- **Tools & Platforms**: Git, MySQL, PostgreSQL
-- **Version Control**: GitHub
 
 ---
 
@@ -62,4 +69,3 @@ In my free time, I enjoy working on personal projects, contributing to open-sour
 I am always open to networking and collaboration, and I would love to connect with other developers and professionals in the tech community!
 
 ---
-[![Project Logo](/java-logo.svg)](https://www.java.com/)
