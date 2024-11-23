@@ -62,3 +62,18 @@ In my free time, I enjoy working on personal projects, contributing to open-sour
 I am always open to networking and collaboration, and I would love to connect with other developers and professionals in the tech community!
 
 ---
+# My Awesome Project
+
+Welcome to my awesome project! Below is the logo of the project.
+
+[![Project Logo](logos/java.png)](https://www.java.com/))
+
+## Description
+This project is about building cool applications that make life easier. It is developed using modern web technologies like **JavaScript** and **React**.
+
+## Technologies Used:
+- HTML
+- CSS
+- JavaScript
+- React
+
