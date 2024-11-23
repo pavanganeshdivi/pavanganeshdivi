@@ -24,7 +24,7 @@ A simple project to generate and validate One-Time Passwords (OTPs). This projec
 
 - **Key Technologies**: JavaScript, HTML, CSS
 - **Features**: OTP generation, user validation, expiry timer, UI feedback
-- **Link**: [GitHub Repository](https://github.com/your-repository-link)
+- **Link**: [GitHub Repository](https://github.com/pavanganeshdivi/otpgeneration.git)
 
 ### 2. **Login Form with Password Visibility Toggle**  
 A simple login system with a feature to toggle password visibility for a more user-friendly experience. This project validates the user input against hardcoded credentials and provides basic error handling.
